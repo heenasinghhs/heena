@@ -9,7 +9,7 @@ pipeline
             {
                 steps
                 {
-                    sh 'mvn -f /root/.jenkins/workspace/pipeline2/mavewebappdemo install'
+                    sh 'mvn -f /root/.jenkins/workspace/pipeline3/mavewebappdemo install'
                 }
             }
         }
